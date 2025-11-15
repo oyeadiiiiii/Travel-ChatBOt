@@ -1,0 +1,11 @@
+nltk
+tensorflow
+sentence-transformers
+scikit-learn
+pandas
+numpy
+faiss-cpu
+fastapi
+uvicorn
+tf-keras
+rapidfuzz

@@ -1,0 +1,130 @@
+{
+  "intents": [
+    {
+      "intent": "greet",
+      "patterns": [
+        "hi",
+        "hello",
+        "hey",
+        "good morning",
+        "good evening",
+        "what's up",
+        "hey bot",
+        "hi there",
+        "hello there",
+        "how are you",
+        "yo",
+        "good afternoon",
+        "hey assistant",
+        "hi friend"
+      ],
+      "responses": [
+        "Hi there! How can I help you today?",
+        "Hello! Ready to plan your next trip?",
+        "Hey! What travel plans can I help you with?",
+        "Hi! Tell me what you're looking for."
+      ]
+    },
+
+    {
+      "intent": "bye",
+      "patterns": [
+        "bye",
+        "see you",
+        "goodbye",
+        "talk to you later",
+        "see you soon",
+        "thanks bye",
+        "ok bye",
+        "catch you later",
+        "good night",
+        "I am done"
+      ],
+      "responses": [
+        "Goodbye! Have a great day 😊",
+        "See you soon!",
+        "Bye! Safe travels!",
+        "Take care! Come back anytime."
+      ]
+    },
+
+    {
+      "intent": "ask_faq",
+      "patterns": [
+        "what is your cancellation policy",
+        "do you offer travel insurance",
+        "can I change my booking",
+        "how do I modify a reservation",
+        "is refund available",
+        "what is your refund rule",
+        "how do I cancel my trip",
+        "where can I check my booking details",
+        "how to track booking",
+        "how do I reschedule",
+        "is rescheduling allowed",
+        "do you offer group discounts",
+        "what payment methods do you accept",
+        "is EMI available",
+        "how do I apply a coupon",
+        "why is my booking pending",
+        "how long does refund take"
+      ],
+      "responses": [
+        "Sure, let me check that for you...",
+        "Here is the information you requested:",
+        "Let me fetch the details you need!"
+      ]
+    },
+
+    {
+      "intent": "recommend",
+      "patterns": [
+        "recommend me a beach destination",
+        "suggest a honeymoon place",
+        "I want a family trip",
+        "best place for a solo trip",
+        "suggest cheap places in January",
+        "recommend a weekend getaway near India",
+        "which destination is best for adventure sports",
+        "best places to visit in summer",
+        "give me holiday ideas",
+        "suggest something unique",
+        "I want a relaxing trip",
+        "best place for trekking",
+        "recommend places under 20k budget",
+        "top international places near India",
+        "where should I travel next"
+      ],
+      "responses": [
+        "Here are some great travel recommendations for you:",
+        "You might love these destinations:",
+        "Based on your request, here are the best options:"
+      ]
+    },
+
+    {
+      "intent": "book",
+      "patterns": [
+        "I want to book a trip to Goa",
+        "book a package for Kerala next week",
+        "reserve my journey to Bali",
+        "book hotel and flights for me",
+        "I need to book a holiday for 2 people",
+        "confirm a trip for me",
+        "I want to make a booking",
+        "book Goa from 23rd December to 28th December",
+        "help me book a trip",
+        "I want to reserve a package",
+        "book travel for 4 people",
+        "I want to finalize the package",
+        "can you book my trip",
+        "create a booking request"
+      ],
+      "responses": [
+        "Sure! Please share destination, dates, and number of travellers.",
+        "I'd be happy to help you with booking — tell me your plan!",
+        "Let's do it! Provide the trip details and I'll proceed."
+      ]
+    }
+  ]
+}

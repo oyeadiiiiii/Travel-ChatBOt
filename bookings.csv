@@ -1,0 +1,4 @@
+step,package,members,total_price
+members,"{'destination': 'manali', 'type': 'adventure', 'price': 18000, 'description': 'Paragliding, trekking, rafting included'}",3,54000
+members,"{'destination': 'manali', 'type': 'adventure', 'price': 18000, 'description': 'Paragliding, trekking, rafting included'}",3,54000
+members,"{'destination': 'manali', 'type': 'adventure', 'price': 18000, 'description': 'Paragliding, trekking, rafting included'}",5,90000
